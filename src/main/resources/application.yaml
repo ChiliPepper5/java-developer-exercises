@@ -1,0 +1,28 @@
+spring:
+  profiles:
+    active: local
+  application:
+   name: api
+  jackson:
+    serialization-inclusion: false
+  jmx:
+    enabled: false
+server:
+  port: 9999
+security:
+  basic:
+    enabled: false
+
+
+##############################
+### CRUMB service profiles ###
+##############################
+---
+spring:
+  profiles: local
+logging:
+  file:  'service.log'
+  level:
+    com.onboarding: 'DEBUG'
+    org.springframework: 'INFO'
+    ROOT: 'ERROR'

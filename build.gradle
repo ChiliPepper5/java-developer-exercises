@@ -1,0 +1,92 @@
+buildscript {
+    ext {
+        springBootVersion = '1.5.8.RELEASE'
+        appName = 'forty-two'
+        appVersion = '0.0.1'
+    }
+    repositories {
+        jcenter()
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+plugins {
+    id 'groovy'
+    id 'java'
+    id 'idea'
+    id 'war'
+}
+
+apply plugin: 'spring-boot'
+
+group 'com.onboarding'
+
+war {
+    baseName = "${appName}"
+    version = "${appVersion}"
+    manifest {
+        attributes(
+                'appName':appName,
+                'appVersion': appVersion,
+                'deployDate': new Date()
+        )
+    }
+}
+
+processResources {
+    filesMatching("**/application.properties") {
+        expand(project.properties)
+    }
+}
+
+jar {
+    baseName = "${appName}"
+    version = "${appVersion}"
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    // https://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api
+//    compile group: 'javax.ws.rs', name: 'javax.ws.rs-api', version: '2.0'
+
+    compile('org.springframework.boot:spring-boot-starter-actuator')
+    compile('org.springframework.boot:spring-boot-starter-data-mongodb')
+    compile "org.springframework.boot:spring-boot-starter-data-rest"
+    compile('org.springframework.boot:spring-boot-starter-web')
+    compile('org.springframework.boot:spring-boot-devtools')
+    compile("org.springframework.boot:spring-boot-starter")
+    compile("org.springframework:spring-web")
+
+    compile("com.fasterxml.jackson.core:jackson-databind")
+    compile("com.fasterxml.jackson.dataformat:jackson-dataformat-xml")
+    compile 'ch.qos.logback:logback-classic:1.2.1'
+    compile group: 'org.eclipse.persistence', name: 'javax.persistence', version: '2.1.1'
+    compile 'joda-time:joda-time'
+
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation group: 'com.google.code.gson', name: 'gson', version: '2.7'
+
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+    testCompile 'org.assertj:assertj-core:3.8.0'
+    testCompile 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:'
+
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+}
+
+springBoot {
+    mainClass = "com.onboarding.HistoricalRatesApplication"
+}

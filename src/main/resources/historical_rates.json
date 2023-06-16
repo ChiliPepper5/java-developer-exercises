@@ -1,0 +1,1072 @@
+[
+  {
+    "year": 1916,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -4.19,
+    "govt_bonds": null,
+    "corp_bonds": null,
+    "t_bills": null
+  },
+  {
+    "year": 1917,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -21.71,
+    "govt_bonds": null,
+    "corp_bonds": null,
+    "t_bills": null
+  },
+  {
+    "year": 1918,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 10.51,
+    "govt_bonds": null,
+    "corp_bonds": null,
+    "t_bills": null
+  },
+  {
+    "year": 1919,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 30.45,
+    "govt_bonds": null,
+    "corp_bonds": 5.488,
+    "t_bills": null
+  },
+  {
+    "year": 1920,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -32.9,
+    "govt_bonds": null,
+    "corp_bonds": 6.121,
+    "t_bills": null
+  },
+  {
+    "year": 1921,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 12.3,
+    "govt_bonds": null,
+    "corp_bonds": 5.969,
+    "t_bills": null
+  },
+  {
+    "year": 1922,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 21.5,
+    "govt_bonds": null,
+    "corp_bonds": 5.104,
+    "t_bills": null
+  },
+  {
+    "year": 1923,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -2.7,
+    "govt_bonds": null,
+    "corp_bonds": 5.117,
+    "t_bills": null
+  },
+  {
+    "year": 1924,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 26.16,
+    "govt_bonds": null,
+    "corp_bonds": 5.004,
+    "t_bills": null
+  },
+  {
+    "year": 1925,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 25.37,
+    "govt_bonds": null,
+    "corp_bonds": 4.877,
+    "t_bills": null
+  },
+  {
+    "year": 1926,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 4.05,
+    "govt_bonds": null,
+    "corp_bonds": 4.731,
+    "t_bills": null
+  },
+  {
+    "year": 1927,
+    "large_cap": null,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 27.67,
+    "govt_bonds": null,
+    "corp_bonds": 4.57,
+    "t_bills": null
+  },
+  {
+    "year": 1928,
+    "large_cap": 43.61,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 49.48,
+    "govt_bonds": null,
+    "corp_bonds": 4.547,
+    "t_bills": null
+  },
+  {
+    "year": 1929,
+    "large_cap": -8.42,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -17.17,
+    "govt_bonds": null,
+    "corp_bonds": 4.725,
+    "t_bills": null
+  },
+  {
+    "year": 1930,
+    "large_cap": -24.9,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -33.77,
+    "govt_bonds": null,
+    "corp_bonds": 4.547,
+    "t_bills": null
+  },
+  {
+    "year": 1931,
+    "large_cap": -43.34,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -52.67,
+    "govt_bonds": null,
+    "corp_bonds": 4.578,
+    "t_bills": null
+  },
+  {
+    "year": 1932,
+    "large_cap": -8.19,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -23.07,
+    "govt_bonds": null,
+    "corp_bonds": 5.007,
+    "t_bills": null
+  },
+  {
+    "year": 1933,
+    "large_cap": 53.99,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 66.69,
+    "govt_bonds": null,
+    "corp_bonds": 4.489,
+    "t_bills": null
+  },
+  {
+    "year": 1934,
+    "large_cap": -1.44,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 4.14,
+    "govt_bonds": null,
+    "corp_bonds": 4.003,
+    "t_bills": 0.278
+  },
+  {
+    "year": 1935,
+    "large_cap": 47.67,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 38.53,
+    "govt_bonds": null,
+    "corp_bonds": 3.603,
+    "t_bills": 0.168
+  },
+  {
+    "year": 1936,
+    "large_cap": 33.92,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 24.82,
+    "govt_bonds": null,
+    "corp_bonds": 3.236,
+    "t_bills": 0.173
+  },
+  {
+    "year": 1937,
+    "large_cap": -34.73,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -32.82,
+    "govt_bonds": null,
+    "corp_bonds": 3.263,
+    "t_bills": 0.276
+  },
+  {
+    "year": 1938,
+    "large_cap": 30.76,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 28.06,
+    "govt_bonds": null,
+    "corp_bonds": 3.193,
+    "t_bills": 0.065
+  },
+  {
+    "year": 1939,
+    "large_cap": -0.38,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -2.92,
+    "govt_bonds": null,
+    "corp_bonds": 3.006,
+    "t_bills": 0.046
+  },
+  {
+    "year": 1940,
+    "large_cap": -9.77,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -12.72,
+    "govt_bonds": null,
+    "corp_bonds": 2.841,
+    "t_bills": 0.036
+  },
+  {
+    "year": 1941,
+    "large_cap": -11.59,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -15.38,
+    "govt_bonds": null,
+    "corp_bonds": 2.768,
+    "t_bills": 0.129
+  },
+  {
+    "year": 1942,
+    "large_cap": 20.15,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 7.61,
+    "govt_bonds": null,
+    "corp_bonds": 2.826,
+    "t_bills": 0.343
+  },
+  {
+    "year": 1943,
+    "large_cap": 25.63,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 13.81,
+    "govt_bonds": null,
+    "corp_bonds": 2.73,
+    "t_bills": 0.38
+  },
+  {
+    "year": 1944,
+    "large_cap": 19.53,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 12.09,
+    "govt_bonds": null,
+    "corp_bonds": 2.724,
+    "t_bills": 0.38
+  },
+  {
+    "year": 1945,
+    "large_cap": 36.31,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 26.65,
+    "govt_bonds": null,
+    "corp_bonds": 2.623,
+    "t_bills": 0.38
+  },
+  {
+    "year": 1946,
+    "large_cap": -8.02,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -8.14,
+    "govt_bonds": null,
+    "corp_bonds": 2.527,
+    "t_bills": 0.38
+  },
+  {
+    "year": 1947,
+    "large_cap": 5.63,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 2.23,
+    "govt_bonds": null,
+    "corp_bonds": 2.611,
+    "t_bills": 0.601
+  },
+  {
+    "year": 1948,
+    "large_cap": 5.37,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -2.13,
+    "govt_bonds": null,
+    "corp_bonds": 2.817,
+    "t_bills": 1.045
+  },
+  {
+    "year": 1949,
+    "large_cap": 18.6,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 12.88,
+    "govt_bonds": null,
+    "corp_bonds": 2.66,
+    "t_bills": 1.115
+  },
+  {
+    "year": 1950,
+    "large_cap": 31.46,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 17.63,
+    "govt_bonds": null,
+    "corp_bonds": 2.623,
+    "t_bills": 1.203
+  },
+  {
+    "year": 1951,
+    "large_cap": 23.97,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 14.37,
+    "govt_bonds": null,
+    "corp_bonds": 2.86,
+    "t_bills": 1.518
+  },
+  {
+    "year": 1952,
+    "large_cap": 18.16,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 8.42,
+    "govt_bonds": null,
+    "corp_bonds": 2.956,
+    "t_bills": 1.723
+  },
+  {
+    "year": 1953,
+    "large_cap": -0.94,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -3.77,
+    "govt_bonds": null,
+    "corp_bonds": 3.199,
+    "t_bills": 1.891
+  },
+  {
+    "year": 1954,
+    "large_cap": 52.27,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 43.96,
+    "govt_bonds": null,
+    "corp_bonds": 2.901,
+    "t_bills": 0.938
+  },
+  {
+    "year": 1955,
+    "large_cap": 31.41,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 20.77,
+    "govt_bonds": 2.817,
+    "corp_bonds": 3.053,
+    "t_bills": 1.725
+  },
+  {
+    "year": 1956,
+    "large_cap": 6.48,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 2.27,
+    "govt_bonds": 3.183,
+    "corp_bonds": 3.364,
+    "t_bills": 2.628
+  },
+  {
+    "year": 1957,
+    "large_cap": -10.72,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -12.77,
+    "govt_bonds": 3.648,
+    "corp_bonds": 3.885,
+    "t_bills": 3.225
+  },
+  {
+    "year": 1958,
+    "large_cap": 43.15,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 33.96,
+    "govt_bonds": 3.316,
+    "corp_bonds": 3.788,
+    "t_bills": 1.771
+  },
+  {
+    "year": 1959,
+    "large_cap": 11.95,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 16.4,
+    "govt_bonds": 4.333,
+    "corp_bonds": 4.382,
+    "t_bills": 3.386
+  },
+  {
+    "year": 1960,
+    "large_cap": 0.45,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -9.34,
+    "govt_bonds": 4.117,
+    "corp_bonds": 4.41,
+    "t_bills": 2.883
+  },
+  {
+    "year": 1961,
+    "large_cap": 26.88,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 18.71,
+    "govt_bonds": 3.883,
+    "corp_bonds": 4.35,
+    "t_bills": 2.354
+  },
+  {
+    "year": 1962,
+    "large_cap": -8.66,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -10.81,
+    "govt_bonds": 3.946,
+    "corp_bonds": 4.325,
+    "t_bills": 2.773
+  },
+  {
+    "year": 1963,
+    "large_cap": 22.76,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 17.0,
+    "govt_bonds": 4.003,
+    "corp_bonds": 4.259,
+    "t_bills": 3.159
+  },
+  {
+    "year": 1964,
+    "large_cap": 16.43,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 14.57,
+    "govt_bonds": 4.187,
+    "corp_bonds": 4.406,
+    "t_bills": 3.547
+  },
+  {
+    "year": 1965,
+    "large_cap": 12.46,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 10.88,
+    "govt_bonds": 4.283,
+    "corp_bonds": 4.493,
+    "t_bills": 3.949
+  },
+  {
+    "year": 1966,
+    "large_cap": -10.02,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -18.94,
+    "govt_bonds": 4.923,
+    "corp_bonds": 5.13,
+    "t_bills": 4.863
+  },
+  {
+    "year": 1967,
+    "large_cap": 23.89,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 15.2,
+    "govt_bonds": 5.073,
+    "corp_bonds": 5.507,
+    "t_bills": 4.307
+  },
+  {
+    "year": 1968,
+    "large_cap": 11.04,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 4.27,
+    "govt_bonds": 5.646,
+    "corp_bonds": 6.175,
+    "t_bills": 5.338
+  },
+  {
+    "year": 1969,
+    "large_cap": -8.4,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -15.19,
+    "govt_bonds": 6.671,
+    "corp_bonds": 7.029,
+    "t_bills": 6.667
+  },
+  {
+    "year": 1970,
+    "large_cap": 3.89,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 4.82,
+    "govt_bonds": 7.348,
+    "corp_bonds": 8.04,
+    "t_bills": 6.392
+  },
+  {
+    "year": 1971,
+    "large_cap": 14.22,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 6.11,
+    "govt_bonds": 6.159,
+    "corp_bonds": 7.387,
+    "t_bills": 4.333
+  },
+  {
+    "year": 1972,
+    "large_cap": 18.96,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 14.58,
+    "govt_bonds": 6.21,
+    "corp_bonds": 7.213,
+    "t_bills": 4.073
+  },
+  {
+    "year": 1973,
+    "large_cap": -14.67,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -16.58,
+    "govt_bonds": 6.843,
+    "corp_bonds": 7.441,
+    "t_bills": 7.032
+  },
+  {
+    "year": 1974,
+    "large_cap": -26.31,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -27.57,
+    "govt_bonds": 7.558,
+    "corp_bonds": 8.566,
+    "t_bills": 7.83
+  },
+  {
+    "year": 1975,
+    "large_cap": 37.14,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 38.32,
+    "govt_bonds": 7.988,
+    "corp_bonds": 8.826,
+    "t_bills": 5.775
+  },
+  {
+    "year": 1976,
+    "large_cap": 23.81,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 17.86,
+    "govt_bonds": 7.612,
+    "corp_bonds": 8.434,
+    "t_bills": 4.974
+  },
+  {
+    "year": 1977,
+    "large_cap": -7.19,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -17.27,
+    "govt_bonds": 7.419,
+    "corp_bonds": 8.024,
+    "t_bills": 5.269
+  },
+  {
+    "year": 1978,
+    "large_cap": 6.52,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -3.15,
+    "govt_bonds": 8.41,
+    "corp_bonds": 8.725,
+    "t_bills": 7.188
+  },
+  {
+    "year": 1979,
+    "large_cap": 18.45,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 4.19,
+    "govt_bonds": 9.443,
+    "corp_bonds": 9.629,
+    "t_bills": 10.069
+  },
+  {
+    "year": 1980,
+    "large_cap": 32.45,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 14.93,
+    "govt_bonds": 11.46,
+    "corp_bonds": 11.938,
+    "t_bills": 11.434
+  },
+  {
+    "year": 1981,
+    "large_cap": -4.88,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -9.23,
+    "govt_bonds": 13.911,
+    "corp_bonds": 14.171,
+    "t_bills": 14.025
+  },
+  {
+    "year": 1982,
+    "large_cap": 21.5,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 19.6,
+    "govt_bonds": 13.002,
+    "corp_bonds": 13.788,
+    "t_bills": 10.614
+  },
+  {
+    "year": 1983,
+    "large_cap": 22.46,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 20.27,
+    "govt_bonds": 11.105,
+    "corp_bonds": 12.042,
+    "t_bills": 8.611
+  },
+  {
+    "year": 1984,
+    "large_cap": 6.22,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -3.74,
+    "govt_bonds": 12.438,
+    "corp_bonds": 12.709,
+    "t_bills": 9.523
+  },
+  {
+    "year": 1985,
+    "large_cap": 31.64,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 27.66,
+    "govt_bonds": 10.623,
+    "corp_bonds": 11.373,
+    "t_bills": 7.479
+  },
+  {
+    "year": 1986,
+    "large_cap": 18.62,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 22.58,
+    "govt_bonds": 7.683,
+    "corp_bonds": 9.021,
+    "t_bills": 5.978
+  },
+  {
+    "year": 1987,
+    "large_cap": 5.18,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 2.26,
+    "govt_bonds": 8.384,
+    "corp_bonds": 9.376,
+    "t_bills": 5.775
+  },
+  {
+    "year": 1988,
+    "large_cap": 16.61,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 11.85,
+    "govt_bonds": 8.846,
+    "corp_bonds": 9.71,
+    "t_bills": 6.668
+  },
+  {
+    "year": 1989,
+    "large_cap": 31.69,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 26.96,
+    "govt_bonds": 8.498,
+    "corp_bonds": 9.258,
+    "t_bills": 8.112
+  },
+  {
+    "year": 1990,
+    "large_cap": -3.1,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": -4.34,
+    "govt_bonds": 8.55,
+    "corp_bonds": 9.322,
+    "t_bills": 7.493
+  },
+  {
+    "year": 1991,
+    "large_cap": 30.47,
+    "small_cap": null,
+    "mid_cap": null,
+    "dow_jones": 20.32,
+    "govt_bonds": 7.858,
+    "corp_bonds": 8.769,
+    "t_bills": 5.375
+  },
+  {
+    "year": 1992,
+    "large_cap": 7.62,
+    "small_cap": null,
+    "mid_cap": 11.91,
+    "dow_jones": 4.17,
+    "govt_bonds": 7.01,
+    "corp_bonds": 8.14,
+    "t_bills": 3.432
+  },
+  {
+    "year": 1993,
+    "large_cap": 10.08,
+    "small_cap": null,
+    "mid_cap": 13.95,
+    "dow_jones": 13.72,
+    "govt_bonds": 5.873,
+    "corp_bonds": 7.219,
+    "t_bills": 2.998
+  },
+  {
+    "year": 1994,
+    "large_cap": 1.32,
+    "small_cap": null,
+    "mid_cap": -3.58,
+    "dow_jones": 2.14,
+    "govt_bonds": 7.08,
+    "corp_bonds": 7.963,
+    "t_bills": 4.247
+  },
+  {
+    "year": 1995,
+    "large_cap": 37.58,
+    "small_cap": 29.96,
+    "mid_cap": 30.95,
+    "dow_jones": 33.45,
+    "govt_bonds": 6.58,
+    "corp_bonds": 7.59,
+    "t_bills": 5.49
+  },
+  {
+    "year": 1996,
+    "large_cap": 22.96,
+    "small_cap": 21.32,
+    "mid_cap": 19.2,
+    "dow_jones": 26.01,
+    "govt_bonds": 6.438,
+    "corp_bonds": 7.37,
+    "t_bills": 5.006
+  },
+  {
+    "year": 1997,
+    "large_cap": 33.36,
+    "small_cap": 25.58,
+    "mid_cap": 32.25,
+    "dow_jones": 22.64,
+    "govt_bonds": 6.353,
+    "corp_bonds": 7.262,
+    "t_bills": 5.061
+  },
+  {
+    "year": 1998,
+    "large_cap": 28.58,
+    "small_cap": -1.31,
+    "mid_cap": 19.11,
+    "dow_jones": 16.1,
+    "govt_bonds": 5.264,
+    "corp_bonds": 6.532,
+    "t_bills": 4.777
+  },
+  {
+    "year": 1999,
+    "large_cap": 21.04,
+    "small_cap": 12.4,
+    "mid_cap": 14.72,
+    "dow_jones": 25.22,
+    "govt_bonds": 5.637,
+    "corp_bonds": 7.042,
+    "t_bills": 4.638
+  },
+  {
+    "year": 2000,
+    "large_cap": -9.1,
+    "small_cap": 11.8,
+    "mid_cap": 17.51,
+    "dow_jones": -6.17,
+    "govt_bonds": 6.029,
+    "corp_bonds": 7.623,
+    "t_bills": 5.817
+  },
+  {
+    "year": 2001,
+    "large_cap": -11.89,
+    "small_cap": 6.54,
+    "mid_cap": -0.6,
+    "dow_jones": -7.1,
+    "govt_bonds": 5.018,
+    "corp_bonds": 7.083,
+    "t_bills": 3.388
+  },
+  {
+    "year": 2002,
+    "large_cap": -22.1,
+    "small_cap": -14.63,
+    "mid_cap": -14.51,
+    "dow_jones": -16.76,
+    "govt_bonds": 4.611,
+    "corp_bonds": 6.492,
+    "t_bills": 1.604
+  },
+  {
+    "year": 2003,
+    "large_cap": 28.68,
+    "small_cap": 38.79,
+    "mid_cap": 35.62,
+    "dow_jones": 25.32,
+    "govt_bonds": 4.015,
+    "corp_bonds": 5.667,
+    "t_bills": 1.011
+  },
+  {
+    "year": 2004,
+    "large_cap": 10.88,
+    "small_cap": 22.65,
+    "mid_cap": 16.48,
+    "dow_jones": 3.15,
+    "govt_bonds": 4.274,
+    "corp_bonds": 5.628,
+    "t_bills": 1.372
+  },
+  {
+    "year": 2005,
+    "large_cap": 4.91,
+    "small_cap": 7.68,
+    "mid_cap": 12.56,
+    "dow_jones": -0.61,
+    "govt_bonds": 4.29,
+    "corp_bonds": 5.235,
+    "t_bills": 3.147
+  },
+  {
+    "year": 2006,
+    "large_cap": 15.79,
+    "small_cap": 15.12,
+    "mid_cap": 10.32,
+    "dow_jones": 16.29,
+    "govt_bonds": 4.792,
+    "corp_bonds": 5.588,
+    "t_bills": 4.727
+  },
+  {
+    "year": 2007,
+    "large_cap": 5.49,
+    "small_cap": -0.3,
+    "mid_cap": 7.98,
+    "dow_jones": 6.43,
+    "govt_bonds": 4.629,
+    "corp_bonds": 5.556,
+    "t_bills": 4.353
+  },
+  {
+    "year": 2008,
+    "large_cap": -37,
+    "small_cap": -31.07,
+    "mid_cap": -36.23,
+    "dow_jones": -33.84,
+    "govt_bonds": 3.667,
+    "corp_bonds": 5.632,
+    "t_bills": 1.365
+  },
+  {
+    "year": 2009,
+    "large_cap": 26.46,
+    "small_cap": 25.57,
+    "mid_cap": 37.38,
+    "dow_jones": 18.82,
+    "govt_bonds": 3.257,
+    "corp_bonds": 5.313,
+    "t_bills": 0.15
+  },
+  {
+    "year": 2010,
+    "large_cap": 15.06,
+    "small_cap": 26.31,
+    "mid_cap": 26.64,
+    "dow_jones": 11.02,
+    "govt_bonds": 3.214,
+    "corp_bonds": 4.943,
+    "t_bills": 0.137
+  },
+  {
+    "year": 2011,
+    "large_cap": 2.11,
+    "small_cap": 1.02,
+    "mid_cap": -1.73,
+    "dow_jones": 5.53,
+    "govt_bonds": 2.786,
+    "corp_bonds": 4.639,
+    "t_bills": 0.053
+  },
+  {
+    "year": 2012,
+    "large_cap": 16,
+    "small_cap": 16.33,
+    "mid_cap": 17.88,
+    "dow_jones": 7.26,
+    "govt_bonds": 1.803,
+    "corp_bonds": 3.673,
+    "t_bills": 0.086
+  },
+  {
+    "year": 2013,
+    "large_cap": 32.39,
+    "small_cap": 41.31,
+    "mid_cap": 33.5,
+    "dow_jones": 26.5,
+    "govt_bonds": 2.35,
+    "corp_bonds": 4.235,
+    "t_bills": 0.058
+  },
+  {
+    "year": 2014,
+    "large_cap": 13.69,
+    "small_cap": 5.76,
+    "mid_cap": 9.77,
+    "dow_jones": 7.52,
+    "govt_bonds": 2.54,
+    "corp_bonds": 4.163,
+    "t_bills": 0.033
+  },
+  {
+    "year": 2015,
+    "large_cap": 1.38,
+    "small_cap": -1.97,
+    "mid_cap": -2.18,
+    "dow_jones": -2.23,
+    "govt_bonds": 2.14,
+    "corp_bonds": 3.89,
+    "t_bills": 0.05
+  },
+  {
+    "year": 2016,
+    "large_cap": 11.96,
+    "small_cap": 26.56,
+    "mid_cap": 20.74,
+    "dow_jones": 13.42,
+    "govt_bonds": 1.84,
+    "corp_bonds": 3.41,
+    "t_bills": 0.32
+  },
+  {
+    "year": 2017,
+    "large_cap": 21.83,
+    "small_cap": 13.23,
+    "mid_cap": 16.24,
+    "dow_jones": 25.08,
+    "govt_bonds": 2.33,
+    "corp_bonds": 3.76,
+    "t_bills": 0.93
+  },
+  {
+    "year": 2018,
+    "large_cap": -4.38,
+    "mid_cap": -11.08,
+    "small_cap": -9.75,
+    "dow_jones": -5.63,
+    "govt_bonds": 2.91,
+    "corp_bonds": 3.93,
+    "t_bills": 1.94
+  },
+  {
+    "year": 2019,
+    "large_cap": 31.49,
+    "mid_cap": 26.2,
+    "small_cap": 22.78,
+    "dow_jones": 22.34,
+    "govt_bonds": 2.14,
+    "corp_bonds": 3.01,
+    "t_bills": 1.54
+  },
+  {
+    "year": 2020,
+    "large_cap": 18.4,
+    "mid_cap": 13.66,
+    "small_cap": 11.29,
+    "dow_jones": 7.25,
+    "govt_bonds": 0.89,
+    "corp_bonds": 2.48,
+    "t_bills": 0.37
+  },
+  {
+    "year": 2021,
+    "large_cap": 28.71,
+    "mid_cap": 24.76,
+    "small_cap": 26.82,
+    "dow_jones": 18.73,
+    "govt_bonds": 1.45,
+    "corp_bonds": 2.7,
+    "t_bills": 0.04
+  },
+  {
+    "year": 2022,
+    "large_cap": -18.11,
+    "mid_cap": -13.06,
+    "small_cap": -17.42,
+    "dow_jones": -8.78,
+    "govt_bonds": 2.95,
+    "corp_bonds": 4.07,
+    "t_bills": 2.02
+  }
+]

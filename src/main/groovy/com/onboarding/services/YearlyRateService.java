@@ -3,6 +3,7 @@ package com.onboarding.services;
 import models.YearlyRate;
 import org.springframework.boot.json.GsonJsonParser;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.stereotype.Service;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -12,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
-
+@Service
 public class YearlyRateService {
 
     String yearlyRatesFile = "historical_rates.json";

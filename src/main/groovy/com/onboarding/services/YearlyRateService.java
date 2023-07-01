@@ -3,6 +3,9 @@ package com.onboarding.services;
 import models.YearlyRate;
 import org.springframework.boot.json.GsonJsonParser;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.web.bind.annotation.*;
+
+import com.onboarding.controllers.RequestParam;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -13,6 +16,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+@Service
 public class YearlyRateService {
 
     String yearlyRatesFile = "historical_rates.json";
@@ -58,6 +62,16 @@ public class YearlyRateService {
 
     public Optional<YearlyRate> getYearlyRate(int year) {
         return yearlyRateMap.containsKey(year) ? Optional.of(yearlyRateMap.get(year)) : Optional.empty();
+    }
+    
+    public List<YearlyRate> getRatesForYearRange(int startYear, int endYear) {
+    	List<YearlyRate> ratesInRange = new ArrayList<>();
+        for (Map.Entry entry : yearlyRateMap.entrySet()) {
+            if (entry.getKey() >= startYear && entry.getKey() <= endYear) {
+                ratesInRange.add(entry.getValue());
+            }
+        }
+        return ratesInRange;
     }
 
 }

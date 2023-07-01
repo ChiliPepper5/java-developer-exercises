@@ -12,4 +12,8 @@ public class Box {
         this.width = width;
         this.depth = depth;
     }
+
+     public int getVolume() {
+        return depth * width * height;
+    }
 }
